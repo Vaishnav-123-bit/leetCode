@@ -1,5 +1,4 @@
-# leetCode
-
+# leetCod
 
 About
 This repository is designed to provide comprehensive solutions to frequently asked interview questions. It covers a wide range of topics, including algorithms, data structures, system design, and more. Our goal is to help you gain a deeper understanding of these topics and improve your problem-solving skills.
