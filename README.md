@@ -6,8 +6,6 @@ This repository is designed to provide comprehensive solutions to frequently ask
 Each solution includes a clear explanation of the problem, the approach used to solve it, and code in multiple programming languages for your reference. You can also find links to additional resources for further learning.
 
 
-
-
 Clone the repository to your local machine:
 
 bash
